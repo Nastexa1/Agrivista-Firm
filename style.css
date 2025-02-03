@@ -268,12 +268,12 @@
     padding-top: 20px;
 }
 footer{
-    background-color: #204E51;
+    background-color: whitesmoke;
     height: 250px;
     display: flex;
     gap: 40px;
     margin-top: 30px;
-    color: white;
+    color: black;
     padding-top: 70px;
     padding-left: 20px;
 }
